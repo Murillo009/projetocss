@@ -1,0 +1,23 @@
+p {
+    color:black;
+    background: white;
+    text-align: justify;
+    font-family: sans-serif;
+    text-align: justify;
+}
+body {
+    background-image: url(../img/download.jpg);
+}
+h1 {
+    word-spacing: 6px;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    color:red;
+}
+p {
+    word-spacing: 8px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+}
